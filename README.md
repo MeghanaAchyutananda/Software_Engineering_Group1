@@ -64,6 +64,10 @@ $\text{\textcolor{red}{Problems user might run into:}}$
   <li>User could face unstable network connectivity.</li>
   <li>System might crash if more users access at the same time.</li>
   <li>Users may not be able to access it because of service outages.</li>
+  <li>"Bcrypt" package issue
+            Issue message: Error: dlopen
+     Solution: npm install bcrypt</li>
+
 </ul>
    
 
